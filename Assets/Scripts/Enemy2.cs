@@ -17,6 +17,7 @@ public class Enemy2 : MonoBehaviour
 
     public float speed;
 
+
     public bool moveRight=true;
 
     public float health = 25;
